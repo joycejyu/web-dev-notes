@@ -27,7 +27,7 @@ Save `page.php` as `home.php`
 
 WP automatically uses `home.php` to display the blog listing page
 
-Remember Dashboard in `Settings > Reading` we chose [Blog as our Posts Page](https://i.imgur.com/4ETSzoQ.png). 
+Remember Dashboard in `Settings > Reading` we chose [Blog as our Posts Page](https://i.imgur.com/4ETSzoQ.png).
 
 _(it will automatically look to `home.php` to control our blog page)_
 
